@@ -1,0 +1,8 @@
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\bin\Debug\DistinctWordInASentence.exe.config
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\bin\Debug\DistinctWordInASentence.exe
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\bin\Debug\DistinctWordInASentence.pdb
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\obj\Debug\DistinctWordInASentence.csprojResolveAssemblyReference.cache
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\obj\Debug\DistinctWordInASentence.exe
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\obj\Debug\DistinctWordInASentence.pdb
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\bin\Debug\ApplicationBusinessLayer.dll
+c:\users\anil.giri\documents\visual studio 2015\Projects\FindDistinctWordInASentence\DistinctWordInASentence\bin\Debug\ApplicationBusinessLayer.pdb
